@@ -1,0 +1,135 @@
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+	font-family: raleway;
+}
+header{
+	position: relative;
+	background-color: #000;
+	width: 100%;
+	top:0;
+}
+
+.btn{
+	background-color: #00D9D9;
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 0;
+	padding: 10px 30px;
+	border: 0;
+	letter-spacing: 1px;
+	
+}
+
+.btn-transparente{
+	background-color: transparent;
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 0;
+	padding: 10px 30px;
+	border: 0;
+	letter-spacing: 1px;
+	
+}
+
+.titulo-slide{
+	padding-bottom: 25%;
+	padding-right: 15%
+}
+
+#slides h1{
+	font-weight: 800;
+	font-family: montserrat;
+	font-size: 50px;
+}
+
+#slides h4{
+	font-style: italic;
+}
+
+.circulo{
+	width: 85px;
+	height: 85px;
+	border-radius: 100%;
+	line-height: 100px;
+	/*border: 1px solid #ddd;*/
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	box-shadow: 2px 2px 5px 2px #ddd;
+	font-size: 30px;
+	color: #fff;
+	background-color: #00D9D9;
+}
+
+#services{
+	margin-top: 30px;
+}
+
+#about{
+	margin-top: 100px;
+}
+
+#about h3,h4,p{
+	margin-left: 20px;
+}
+
+#pasillo{
+	margin-top: 60px;
+}
+
+#doctors{
+	margin-top: 60px;
+}
+
+#about h4,
+#doctors h4{
+	font-style: italic;
+}
+
+#doctors img{
+	margin-bottom: 30px;
+}
+
+#testimonios{
+	background-color: #F9F9F9;
+	color: #444444;
+	padding: 10% 0;
+}
+
+.circulo-testimonio{
+	width: 85px;
+	height: 85px;
+	border-radius: 100%;
+	line-height: 100px;
+	/*border: 1px solid #ddd;*/
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	box-shadow: 2px 2px 5px 2px #ddd;
+	font-size: 30px;
+	color: #fff;
+	background-color: #777;
+}
+
+#testimonios p{
+	width: 60%;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 20px;
+	
+}
+
+.amarillo{
+	color: rgba(255,219,27,1.00)
+}
+
+footer{
+	background-color:  #222;
+	padding: 50px 0;	
+}
+
+.parrafo-footer{
+	padding: 10% 0;
+}
